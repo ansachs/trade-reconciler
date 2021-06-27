@@ -1,0 +1,11 @@
+[
+  {"id": 1, "symbol":"abc", "type": "short", "quantity": 5},
+  {"id": 2, "symbol":"abc", "type": "short", "quantity": 74},
+  {"id": 3, "symbol":"abc", "type": "long", "quantity": 33},
+  {"id": 4, "symbol":"abc", "type": "short", "quantity": 54},
+  {"id": 5, "symbol":"def", "type": "long", "quantity": 5},
+  {"id": 6, "symbol":"def", "type": "long", "quantity": 74},
+  {"id": 7, "symbol":"ghi", "type": "long", "quantity": 5},
+  {"id": 8, "symbol":"ghi", "type": "short", "quantity": 33},
+  {"id": 9, "symbol":"ghi", "type": "long", "quantity": 115}
+]
